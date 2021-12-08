@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VaibhavPrajapati24
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning hacking
+- Computer Hacker
+
+
 
 <!---
 VaibhavPrajapati24/VaibhavPrajapati24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
